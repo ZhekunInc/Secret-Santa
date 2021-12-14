@@ -25,7 +25,7 @@ SECRET_KEY = 'p^v)=wob4y)ffs1)k9k)a3r1_&c7z^z*ixg%bo*vdk+xtfc&wh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['secretsanta2021.pythonanywhere.com']
 
 
 # Application definition
