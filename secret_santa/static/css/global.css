@@ -1,0 +1,23 @@
+/********** BASE **********/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+    min-height: calc(100vh - 100px);
+}
+
+.footer {
+    margin-top: 25px;
+    height: 55px;
+    background: rgb(21, 19, 19);
+    text-align: center;
+    color: white;
+}
+  
+.footer p {
+    padding-top: 17px;
+    padding-bottom: 0;
+    text-transform: uppercase;
+}
